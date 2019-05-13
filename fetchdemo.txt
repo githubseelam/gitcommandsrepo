@@ -1,0 +1,5 @@
+yeah 
+this is fetch demo file
+here we go to explain about fetch command 
+fetch is to get all branches and specific ones are from remote server(github) to local repo.
+
